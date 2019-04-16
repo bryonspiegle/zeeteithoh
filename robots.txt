@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://etheezeew.remoteworkers.club/sitemap.xml
